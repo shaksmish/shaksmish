@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning React and React Native to help build meaningful web apps.
 
-🔭 I’m currently working on building a 🐶 Pet Adoption project using React.
+🔭 I’m currently working on building an app to solve the challenge of copying/pasting endless One Time Passwords.
 
 💬 Ask me about my journey in learning HTML, CSS, Vanilla JavaScript, TypeScript, React, React Native, Tailwind CSS, Netlify and more. 
 
